@@ -3,7 +3,7 @@
 ##### This is an example of someone trying to write a bot in Spring Boot
 
 ### Examples
-- registration bot by phone
+- registration by phone
 - send message via telegram api
 - bot proxy settings
 - okHttp proxy settings
